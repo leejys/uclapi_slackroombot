@@ -11,7 +11,7 @@ Slack bot that uses the UCL API to get information about room bookings, module t
 <li>@roombot my data - Get your UCL data.</li>
 <li>@roombot my timetable - Get your personal timetable. (basically just a massive JSON dump at the moment, would not recommend)</li>
 </ul>
-
+<p>
 <ul>To do:</ul>
 <li>Replicate and fix occasional sorting bug</li>
 <li>Look into slash commands for Slack</li>
